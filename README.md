@@ -1,4 +1,4 @@
-![Logo of the project](./images/logo.jpg | width=100) 
+<img src="./images/logo.jpg" width="40%">.
 
  
 
