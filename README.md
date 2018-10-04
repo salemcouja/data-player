@@ -4,6 +4,7 @@
 - Phillip Michalowski	
 - Ethan Johnson
 - Harshul Shukla
+- Kwasi Bandoh
 - Keith Woo
 
 
