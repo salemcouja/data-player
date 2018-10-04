@@ -2,6 +2,7 @@
 
 # Names of Contributors
 - Phillip Michalowski	
+- Ethan Johnson
 - Harshul Shukla
 - Kwasi  Bandoh
 
